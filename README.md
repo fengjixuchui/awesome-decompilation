@@ -30,6 +30,8 @@ A curated list of awesome decompilation resources and projects.
 
  * [Static Single Assignment for Decompilation](https://yurichev.com/mirrors/vanEmmerik_ssa.pdf)
 
+* [Retargetable Analysis of Machine Code](https://dspace.vutbr.cz/bitstream/handle/11012/63279/482.pdf)
+
  * [A Human-Centric Approach For Binary Code Decompilation](http://hss.ulb.uni-bonn.de/2018/5004/5004.pdf)
 
 ## Projects
@@ -40,7 +42,7 @@ A curated list of awesome decompilation resources and projects.
 
  * [fcd](https://github.com/zneak/fcd)
  
- * [radeco-lib](https://github.com/radare/radeco-lib)
+ * [radeco](https://github.com/radareorg/radeco)
 
  * [retdec](https://retdec.com/)
 
@@ -133,6 +135,8 @@ A curated list of awesome decompilation resources and projects.
 * [Scalable Graph-based Bug Search for Firmware Images](http://www.cs.ucr.edu/~heng/pubs/genius-ccs16.pdf)
 
 * [Neural Network-based Graph Embedding for Cross-Platform Binary Code Similarity Detection](https://arxiv.org/abs/1708.06525)
+
+* [SAFE: Self Attentive Function Embedding For Binary Similarity](https://arxiv.org/abs/1811.05296)
 
 
 
