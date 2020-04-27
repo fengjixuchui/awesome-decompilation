@@ -87,6 +87,8 @@ A curated list of awesome decompilation resources and projects.
  * [ESIL](https://radare.gitbooks.io/radare2book/content/disassembling/esil.html)
 
  * [LLIL](https://docs.binary.ninja/dev/bnil-llil/index.html)
+ 
+ * [VTIL](https://github.com/vtil-project)
 
 ### Type Reconstruction
 
@@ -123,6 +125,8 @@ A curated list of awesome decompilation resources and projects.
 ### AI-based Decompilation
 
  * [Using Recurrent Neural Networks for Decompilation](http://www.cs.unm.edu/~eschulte/data/katz-saner-2018-preprint.pdf)
+
+ * [Towards Neural Decompilation (2019)](https://arxiv.org/pdf/1905.08325.pdf)
 
 ### Binary-Source Matching
 
